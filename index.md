@@ -12,13 +12,14 @@
 #### STAGE 5 (Performing analysis on the integrated data)
 
 ```markdown
-**Yelp vs Zomato**
+YELP vs ZOMATO
 
 TEAM:
-Tarun Bansal (tbansal@wisc.edu) 
-Ayush Gupta (gupta92@wisc.edu) 
-Rohit Damkondwar (damkondwar@wisc.edu) 
+- Tarun Bansal (tbansal@wisc.edu) 
+- Ayush Gupta (gupta92@wisc.edu) 
+- Rohit Damkondwar (damkondwar@wisc.edu) 
 
+***REFERENCE
 ![Image](https://georgianpartners.com/wp-content/uploads/2015/09/datascience_775_x_330.png)
 - Bulleted
 - List
@@ -31,12 +32,3 @@ Rohit Damkondwar (damkondwar@wisc.edu)
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayushiitr/cs838/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
