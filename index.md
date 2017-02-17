@@ -2,7 +2,7 @@
 
 
 #### STAGE 1 (Data Acquisition)
-PDF Report -
+PDF Report - [Link](http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf)
 
 #### STAGE 2 (IE from Text Documents)
 
