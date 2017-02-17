@@ -1,19 +1,22 @@
 ## CS 838 - Data Science Project
 
-Tarun Bansal
-Rohit Damkondwar
-Ayush Gupta 
 
 ### STAGE 1 (Data Acquisition)
+PDF Report -
 
-PDF Report - 
+### STAGE 2 (IE from Text Documents)
+
+### STAGE 3 (Data Acquisition)
+
+### STAGE 4 (Data Acquisition)
+
+### STAGE 5 (Data Acquisition)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+TEAM:
+# Tarun Bansal
+## Rohit 
+### Ayush Gupta
 
 - Bulleted
 - List
