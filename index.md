@@ -14,9 +14,9 @@ PDF Report - [Link](http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf)
 
 ```markdown
 TEAM:
-# Tarun Bansal
-## Rohit 
-### Ayush Gupta
+Tarun Bansal
+Rohit 
+Ayush Gupta
 
 - Bulleted
 - List
