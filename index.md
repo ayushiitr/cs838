@@ -1,8 +1,7 @@
 ## CS 838 - Data Science Project
-![Image](https://georgianpartners.com/wp-content/uploads/2015/09/datascience_775_x_330.png)
 
 #### STAGE 1 (Data Acquisition)
-PDF Report - [Link](http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf)
+[PDF Report](http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf)
 
 #### STAGE 2 (IE from Text Documents)
 
@@ -13,12 +12,14 @@ PDF Report - [Link](http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf)
 #### STAGE 5 (Performing analysis on the integrated data)
 
 ```markdown
-###Yelp vs Zomato 
+**Yelp vs Zomato**
 
-**TEAM**:
+TEAM:
 Tarun Bansal (tbansal@wisc.edu) 
 Ayush Gupta (gupta92@wisc.edu) 
 Rohit Damkondwar (damkondwar@wisc.edu) 
+
+![Image](https://georgianpartners.com/wp-content/uploads/2015/09/datascience_775_x_330.png)
 - Bulleted
 - List
 
