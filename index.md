@@ -6,18 +6,17 @@ PDF Report - [Link](http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf)
 
 #### STAGE 2 (IE from Text Documents)
 
-#### STAGE 3 (Data Acquisition)
+#### STAGE 3 (Data/Schema Matching)
 
-#### STAGE 4 (Data Acquisition)
+#### STAGE 4 (Combining data into a single set)
 
-#### STAGE 5 (Data Acquisition)
+#### STAGE 5 (Performing analysis on the integrated data)
 
 ```markdown
-TEAM:
-Tarun Bansal
-Rohit 
-Ayush Gupta
-
+**TEAM**:
+Tarun Bansal (tbansal@wisc.edu) 
+Ayush Gupta (gupta92@wisc.edu) 
+Rohit Damkondwar (damkondwar@wisc.edu) 
 - Bulleted
 - List
 
