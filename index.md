@@ -1,5 +1,5 @@
 ## CS 838 - Data Science Project
-
+![Image](https://georgianpartners.com/wp-content/uploads/2015/09/datascience_775_x_330.png)
 
 #### STAGE 1 (Data Acquisition)
 PDF Report - [Link](http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf)
