@@ -2,7 +2,7 @@
 
 Tarun Bansal
 Rohit Damkondwar
-Ayush Gupta
+Ayush Gupta 
 
 ### STAGE 1 (Data Acquisition)
 
