@@ -1,16 +1,16 @@
 ## CS 838 - Data Science Project
 
 
-### STAGE 1 (Data Acquisition)
+#### STAGE 1 (Data Acquisition)
 PDF Report -
 
-### STAGE 2 (IE from Text Documents)
+#### STAGE 2 (IE from Text Documents)
 
-### STAGE 3 (Data Acquisition)
+#### STAGE 3 (Data Acquisition)
 
-### STAGE 4 (Data Acquisition)
+#### STAGE 4 (Data Acquisition)
 
-### STAGE 5 (Data Acquisition)
+#### STAGE 5 (Data Acquisition)
 
 ```markdown
 TEAM:
